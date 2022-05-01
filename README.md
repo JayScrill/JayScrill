@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayScrill
+- 👋 Hi, I’m Joel Jimenez
 - 👀 I’m interested in becoming a full stack web developer.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on any website projects.
